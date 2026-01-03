@@ -1,10 +1,13 @@
 # 📒 Contact Book (Python CLI)
 
 A simple **Contact Book application** written in Python.  
-This project is built as a practice for learning **Python basics**,  
-**functions**, **data structures**, and **JSON file handling**.
+This project is built as a practice for learning 
 
-The program runs in the terminal and allows users to manage contacts easily.
+## ⚒️ What does this project teach
+1. **Python basics**
+2. **functions**
+3. **data structures** 
+4. **JSON file handling**.
 
 ---
 
@@ -19,15 +22,6 @@ The program runs in the terminal and allows users to manage contacts easily.
 
 ---
 
-📋 Usage
-
-When the program starts, you will see a menu:
-
-1. Add a contact
-2. View contact
-3. Remove a contact
-4. Search contact
-5. Exit
 
 🚀 Future Improvements
 
